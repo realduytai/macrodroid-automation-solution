@@ -1,0 +1,12 @@
+# Project specific
+allure-results
+allure-reports
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# runner output
+tests/data/output/
